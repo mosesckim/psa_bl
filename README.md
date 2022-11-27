@@ -1,6 +1,14 @@
 # psa_bl
 
 
-To run main script execute the following command:
+## Requirements
+
+Create a virtual environment and install modules found in `requirements.txt`
+
+## How to run
+
+Download `BDP cleaned full Plant Code.xlsx` and place it inside the `data` directory.
+
+Then, run the following command:
 
     PYTHONPATH="." python scripts/main.py
